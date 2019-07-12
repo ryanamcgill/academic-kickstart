@@ -47,7 +47,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: static/files/RyanMcGill_Resume.pdf
+  link: files/RyanMcGill_Resume.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ryan-mcgill-3a1929162/
