@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ryan McGill
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Engineering Undergraduate 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Auburn University
+  url: "http://www.auburn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Microfabrication, quantum, and acoustics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microfabrication 
+- Quantum Computing
+- Acoustics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E. in Computer Engineering
+    institution: Auburn University
+    year: Expected May 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,32 +39,31 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:ram0063@auburn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ryanamcgill/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+- icon: cv
+  icon_pack: ai
+  link: static/files/RyanMcGill_Resume.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ryan-mcgill-3a1929162/
+   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the STORM Lab. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+While at Auburn, I have been able to assist on many projects ranging from environmental probes to radar vulnerability testing. I am interested in studying microfabrication processes as well as quantum computing. 
+
+This summer I am in Boston as a research intern at MIT Lincoln Laboratory. Here I'm analyzing the impact of large wind farms on air surveillance radar as a project from the Department of Defense. Outside of the lab I enjoy exploring the Boston area, specifically going to nearby beaches and trying as many restaurants as I can!
