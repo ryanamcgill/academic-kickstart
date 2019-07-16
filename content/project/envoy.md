@@ -26,16 +26,20 @@ math = false
 
 +++
 
-Can't say too much about this project! ENVOY is a system that will allow 
-natural-language communication between ASL and non-ASL users. This is done by 
-translating ASL to English, and then English back to ASL. Applications that 
-are in development today try to focus on translating ASL to spoken or written 
-English and stop there. This project is intended to 'complete the circuit' by 
-translating the non-ASL user's response into ASL. We are proposingthis idea 
-because ASL speakers prefer to communicate in, well, ASL!
+ENVOY is a system that will allow  natural-language communication between ASL 
+and non-ASL users. This is done by translating ASL to English, and then English 
+back to ASL. Applications that are in development today try to focus on 
+translating ASL to spoken or written English and stop there. This project is 
+intended to 'complete the circuit' by translating the non-ASL user's response 
+into ASL. We are proposing this idea because ASL speakers prefer to communicate 
+in, well, ASL!
+
+<img src = "/img/envoy/asl.png" width = "1000">
+
 
 This project is a part of the 'Intern Innovative Idea Challenge' (I3C) that is 
 done during the summer at MIT Lincoln Laboratory. Currently the project has 
 passed the first round (staff voting) and is participating in the 
 second round (poster presentation).  
 
+<a href="https://en.wikipedia.org/wiki/File:American_Sign_Language_ASL.svg">Image source.</a>

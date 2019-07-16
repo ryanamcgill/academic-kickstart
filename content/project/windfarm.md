@@ -26,8 +26,10 @@ math = false
 
 +++
 
-Can't say too much about this project! Each year countries put up more and
-more wind turbines that are only growing in size. 
+Each year countries put up more and more wind turbines that are only growing in 
+size. 
+
+<img src = "/img/windfarm/size.png" width = "1000">
 
 Legacy radars are being impacted as wind turbine blades happen to have 
 similar radar cross sections as target aircraft. The spinning of these blades 
@@ -36,3 +38,4 @@ contain turbines that are spaced close together. All of these factors contribute
 to pockets of low probability of detection and tracking which translates to 
 potential 'holes' in air surveillance.   
 
+<a href="http://www.windenergy.org.nz/improvements-in-technology">Image source.</a>
