@@ -3,5 +3,5 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = https://github/ryanamcgill/ryanamcgill.github.io
+	url = https://github.com/ryanamcgill/ryanamcgill.github.io
 	branch = master
