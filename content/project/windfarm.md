@@ -26,16 +26,15 @@ math = false
 
 +++
 
-Each year countries put up more and more wind turbines that are only growing in 
-size. 
+Interference from wind turbines can degrade the performance of radar by providing 
+a large cross section and Doppler signal.  Further, wind farms generally contain 
+turbines that are spaced close together. All of these factors contribute to 
+pockets of poor radar performance near wind farms and is a concern for flight 
+safety.  As the investment in wind energy increases it is important to understand 
+the potential impact of these farms on legacy radar.
 
 <img src = "/img/windfarm/size.png" width = "1000">
 
-Legacy radars are being impacted as wind turbine blades happen to have 
-similar radar cross sections as target aircraft. The spinning of these blades 
-gives a doppler return at the radar site. Further, wind farms generally 
-contain turbines that are spaced close together. All of these factors contribute
-to pockets of low probability of detection and tracking which translates to 
-potential 'holes' in air surveillance.   
+   
 
 <a href="http://www.windenergy.org.nz/improvements-in-technology">Image source.</a>
