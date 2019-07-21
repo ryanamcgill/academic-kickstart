@@ -18,11 +18,11 @@ organizations:
   url: "http://www.auburn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Microfabrication, quantum computing, and photonics
+bio: Microelectronics, quantum electronics, and photonics
 
 interests:
-- Microfabrication 
-- Quantum Computing
+- Microelectronics
+- Quantum Electronics
 - Photonics
 
 education:
@@ -64,6 +64,6 @@ user_groups:
 
 Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the STORM Lab. 
 
-While at Auburn, I have been able to assist on many projects ranging from environmental probes to radar vulnerability testing. I am interested in studying microfabrication, quantum computing, and photonics. 
+While at Auburn, I have been able to assist on many projects ranging from environmental probes to radar vulnerability testing. I am interested in studying microelectronics, quantum electronics, and photonics. 
 
 This summer I am in Boston as a research intern at MIT Lincoln Laboratory. Here I'm analyzing the impact of large wind farms on air surveillance radar as a project from the Department of Defense. Outside of the lab I enjoy exploring the Boston area, specifically going to nearby beaches and trying as many restaurants as I can!
