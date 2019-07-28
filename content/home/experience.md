@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   
   * Studied radar principles and physics in order to develop MATLAB tools that model wind turbine clutter for the Intelligence, Surveillance, and Reconnaissance Systems & Architectures group.  
   * Analyzed the interference of wind turbines on radars. Compared simulation to real data collected in the field to confirm model accuracy. 
-  * Created ”ENVOY”, an American Sign Language teaching tool as part of the Intern Innovative Idea Challenge. Presented the idea to the laboratory staff and designing a poster to in order to gain funding."""
+  * Created ”ENVOY”, an American Sign Language teaching tool as part of the Intern Innovative Idea Challenge. Won best poster and first place overall to secure laboratory funding for future development."""
 
 [[experience]]
   title = "Undergraduate Research Assistant"
