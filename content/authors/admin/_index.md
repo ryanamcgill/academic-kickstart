@@ -18,12 +18,12 @@ organizations:
   url: "http://www.auburn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Microelectronics, quantum electronics, and photonics
+bio: Microelectronics, Optoelectronics, and Quantum Electronics
 
 interests:
 - Microelectronics
+- Optoelectronics and Photonics
 - Quantum Electronics
-- Photonics
 
 education:
   courses:
@@ -62,8 +62,10 @@ user_groups:
 # - Visitors
 ---
 
-Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the STORM Lab. 
+Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the Sensors, Transducers, Optics, RF, and MEMS (STORM) Lab. 
 
-While at Auburn, I have been able to assist on many projects ranging from environmental probes to radar vulnerability testing. I am interested in studying microelectronics, quantum electronics, and photonics. 
+While at Auburn, I have been able to assist on many projects ranging from quantum key distribution on a nano-satellite to radar vulnerability testing. For graduate school, I am interested in working with microelectronics, specifically in the fields of optoelectronics and quantum devices. I am interested in these as they open up the door for faster ICs and unique sensing capabilities among many other cool applications!
 
-This summer I am in Boston as a research intern at MIT Lincoln Laboratory. Here I'm analyzing the impact of large wind farms on air surveillance radar as a project from the Department of Defense. Outside of the lab I enjoy exploring the Boston area, specifically going to nearby beaches and trying as many restaurants as I can!
+This past summer I was in Boston as a research intern at MIT Lincoln Laboratory. Here I analyzed the impact of large wind farms on air surveillance radar as a project from the Department of Defense. While there, me and a few other interns came up with a new architecture for American Sign Language translation which received laboratory funding to continue development at the university level. 
+
+Outside of research, I give tours to prospective engineering students as well as enjoy playing board games, ranging anywhere from "Dungeons and Dragons" to "UNO". If you would like to challenge me in checkers or contact me for any reason, feel free to shoot me an email! 
