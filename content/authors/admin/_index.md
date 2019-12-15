@@ -18,12 +18,12 @@ organizations:
   url: "http://www.auburn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Microelectronics, Optoelectronics, and Quantum Electronics
+bio: Quantum Electronics, Photonics, and Optics
 
 interests:
-- Microelectronics
-- Optoelectronics and Photonics
 - Quantum Electronics
+- Optics and Photonics
+- Microelectronics
 
 education:
   courses:
@@ -62,9 +62,9 @@ user_groups:
 # - Visitors
 ---
 
-Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the Sensors, Transducers, Optics, RF, and MEMS (STORM) Lab. 
+Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing a B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the Sensors, Transducers, Optics, RF, and MEMS (STORM) Lab. 
 
-While at Auburn, I have been able to assist on many projects ranging from quantum key distribution on a nano-satellite to radar vulnerability testing. For graduate school, I am interested in working with microelectronics, specifically in the fields of optoelectronics and quantum devices. I am interested in these as they open up the door for faster ICs and unique sensing capabilities among many other cool applications!
+While at Auburn, I have been able to assist on many projects ranging from quantum key distribution on a nano-satellite to radar vulnerability testing. For graduate school, I am interested in working with quantum electronics, specifically with optics and photonics. This area of technology is helping usher in next generation electronics, and I want to be a part of a program that is capable of bringing this change. 
 
 This past summer I was in Boston as a research intern at MIT Lincoln Laboratory. Here I analyzed the impact of large wind farms on air surveillance radar as a project from the Department of Defense. While there, me and a few other interns came up with a new architecture for American Sign Language translation which received laboratory funding to continue development at the university level. 
 

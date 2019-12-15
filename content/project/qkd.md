@@ -26,12 +26,16 @@ math = false
 
 +++
 
-As a project from the Air Force University Nano-satellite Program, QUEST aims
-to prove that secure communication can be realized via quantum key 
-distribution from a ground station to a satellite. 
+As a project for the Department of Defense, QUEST aims to prove that secure 
+communication can be realized via quantum key distribution from a ground 
+station to a satellite. 
+
+<img src = "/img/qkd/bb84.png" width = "1000">
 
 I am contributing to the payload section of the satellite. In order to achieve 
-quantum key distribution, the satellite's downlink beam must be aligned with the
-ground station. Currently I am designing an embedded controller to take in 
-camera data from the uplink and downlink beams and drive a fast steering mirror
-to achieve alignment. 
+quantum key distribution (QKD), the satellite's downlink beam must be aligned with the
+ground station. Our payload is using the Bennet-Brassard 1984 scheme for polarization 
+based QKD. Currently I am designing an embedded controller to take in camera data from 
+the uplink and downlink beams and drive a fast steering mirror to achieve alignment. 
+
+<a href="https://universitynanosat.org/">Link to University Nanosatellite Program </a> <a href="http://physique.unice.fr/sem6/2014-2015/PagesWeb/PT/Tomographie/?page=bb84">Image source.</a>

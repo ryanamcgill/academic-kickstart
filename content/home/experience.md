@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-15"
   date_end = ""
   description = """
-  * Integrating an embedded system to steer a laser communication payload on the Quantum Encrypted Satellite based Transmission (QUEST) project for the Air Force University Nano-satellite Program.
+  * Integrating an embedded system to steer a laser communication payload on the Quantum Encrypted Satellite based Transmission (QUEST) project for a 12U small satellite.
   * Penetration and vulnerability testing on a radar for the Army through Dynetics. Currently processing files and constructing pathways to disrupt normal radar operation.
   * Performing research for the National Oceanic and Atmospheric Association on GlobalSense as a partof development for disposable environmental probes.
   * Testing and simulating a retro-directive antenna array to be used in communication  systems. Researching topologies for the IC board in order to minimize the area and lower the power usage of the design.
